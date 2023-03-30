@@ -294,8 +294,8 @@ ul {
 .first-item::before {
   position: absolute;
   top: -40px;
-  width: 86px;
-  height: 86px;
+  width: 88px;
+  height: 88px;
   background-image: url("./images/icons/statistcsicon.svg");
   content: "";
 }
@@ -309,8 +309,8 @@ ul {
 .second-item::before {
   position: absolute;
   top: -40px;
-  width: 86px;
-  height: 86px;
+  width: 88px;
+  height: 88px;
   background-image: url("./images/icons/speedicon.svg");
   content: "";
 }
@@ -326,8 +326,8 @@ ul {
   position: absolute;
   top: -40px;
   left: 32px;
-  width: 86px;
-  height: 86px;
+  width: 88px;
+  height: 88px;
   background-image: url("./images/icons/penicon.svg");
   background-repeat: no-repeat;
   content: "";
